@@ -14,8 +14,7 @@
   * Advocating for, or encouraging, any of the above behavior.
   * Repeated harassment of others. In general, if someone asks you to stop, then stop.
 * **When we disagree, try to understand why**: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of our community comes from its diversity, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
-
-
+* **Irrational aggressive behavior will not be tolerated:** We will be open to talk out disagreements and internal issues. But we won't accept any nature of aggressive behaviour in any of our events such as violence, verbal abuse, assualt and more of those kind. **We reserve the right to remove people from our events and to refuse entry who don't follow the code of conduct as stated above.**
 
 ## Reporting
 
